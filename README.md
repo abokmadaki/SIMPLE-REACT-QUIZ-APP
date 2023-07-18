@@ -19,7 +19,7 @@ Follow these steps to set up the development environment and run the application
 1. Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/simple-react-quiz-app.git
+git clone https://github.com/abokmadaki/simple-react-quiz-app.git
 ```
 
 2. Navigate to the project directory:
