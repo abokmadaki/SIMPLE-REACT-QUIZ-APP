@@ -68,7 +68,6 @@ You can easily customize this app by adding more quizzes or modifying the existi
       "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
       "correctIndex": 0
     },
-    // Add more questions here
   ]
 }
 ```
